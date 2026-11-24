@@ -1,0 +1,44 @@
+================================================================================
+PARTNER UNIVERSITY ID: G VOLOS01
+UNIVERSITY: University of Thessaly
+FACULTY: School of Sciences
+DEPARTMENT: Department of Informatics and Telecommunications
+COUNTRY & CITY: Lamia, Greece
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Lamia is a smaller regional city in central Greece with a calm, local atmosphere and lower costs than Athens; students may plan roughly €600–€900/month.
+  * The centre is walkable, with local buses for campus and neighbourhood travel; intercity buses and trains connect Lamia with Athens and Thessaloniki.
+
+- CLIMATE & WEATHER:
+  * Summers are hot and dry (often 30–35°C), while winters are cool and wetter (about 5–13°C), with snow possible in nearby mountains.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Social life is centred on cafés, tavernas, student groups, local bars, and city events, with a more intimate pace than a major metropolis.
+  * Mount Oeta, Thermopylae, hot springs, hiking areas, and the Gulf of Mali provide varied nature and weekend activities.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Local opportunities are strongest in public services, telecommunications, regional firms, and university research; Athens offers the nearest large technology market.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Software and Information Systems (BSc)
+     * Focus: Programming, algorithms, databases, operating systems, web technologies, and software engineering.
+     * Best for: Students seeking a broad computer science foundation and practical software skills.
+
+  2. Networks and Telecommunications (BSc)
+     * Focus: Computer networks, communication systems, signal processing, wireless technologies, and network services.
+     * Best for: Students interested in infrastructure, connectivity, telecom, and network engineering.
+
+  3. Data, Artificial Intelligence and Intelligent Systems (BSc/MSc topics)
+     * Focus: Machine learning, data analysis, intelligent systems, optimization, and related applied research.
+     * Best for: Students who enjoy mathematics and want to explore data-driven computing.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Courses mix lectures with laboratory work, programming assignments, projects, and examinations.
+  * The regular degree is mainly in Greek. University departments offer selected English courses or English arrangements for Erasmus students, so the semester-specific list must be confirmed in advance.

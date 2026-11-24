@@ -1,0 +1,44 @@
+================================================================================
+PARTNER UNIVERSITY ID: MK TETOVO02
+UNIVERSITY: South East European University
+FACULTY: Faculty of Contemporary Sciences and Technologies
+DEPARTMENT: Computer Sciences
+COUNTRY & CITY: Tetovo, North Macedonia
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Tetovo is a multicultural university city near the Šar Mountains, with a relaxed pace and very affordable living; students may budget about €400–€700/month.
+  * The centre and campus surroundings are manageable on foot, with buses and taxis for longer trips; Skopje is reachable for major-city services and flights.
+
+- CLIMATE & WEATHER:
+  * Summers are hot and relatively dry (often 25–33°C); winters are cold (roughly -2–7°C), with rain in the valley and substantial snow in the mountains.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * The university's multilingual community, clubs, cafés, restaurants, and events give the city a strongly student-oriented social life.
+  * Popova Šapka and the Šar Mountains provide skiing, hiking, mountain biking, climbing, and scenic weekend trips.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Opportunities include software outsourcing, telecommunications, digital services, entrepreneurship, and remote work, with a larger technology ecosystem in nearby Skopje.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Computer Sciences (BSc/MSc)
+     * Focus: Programming, algorithms, data structures, databases, operating systems, networks, and general software development.
+     * Best for: Students seeking a balanced foundation across core computer science subjects.
+
+  2. Software Engineering and Web/Mobile Systems (BSc/MSc modules)
+     * Focus: Software lifecycle, web and mobile development, databases, cloud-oriented services, teamwork, and applied projects.
+     * Best for: Students who prefer building applications and learning through practical development.
+
+  3. Computer Engineering and Business Informatics (BSc)
+     * Focus: Computer architecture, networks and systems, plus the use of IT to support organizations and business processes.
+     * Best for: Students attracted to hardware-software integration or the intersection of technology and business.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Teaching is applied and includes labs, assignments, team projects, presentations, and links to regional employers.
+  * English-language Computer Science programs are offered, alongside Albanian and Macedonian options; Erasmus students should confirm the live English course list for their semester.

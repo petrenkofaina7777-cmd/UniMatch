@@ -1,0 +1,49 @@
+================================================================================
+PARTNER UNIVERSITY ID: PL_LEGNICA01
+UNIVERSITY: Witelon Collegium State University (Collegium Witelona Uczelnia Państwowa)
+FACULTY: Faculty of Technical and Economic Sciences (Wydział Nauk Technicznych i Ekonomicznych)
+DEPARTMENT: Department of Technical Sciences (Katedra Nauk Technicznych)
+COUNTRY & CITY: Legnica, Poland
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Legnica is a historic, medium-sized city in Lower Silesia with a rich industrial and cultural legacy, offering a cozy and community-focused student environment.
+  * Incredibly low cost of living, with monthly budgets ranging from €350–€500 (PLN 1,500–2,200) covering shared housing or university dormitories, groceries, and dining. It is significantly cheaper than Poland's major academic metropolises.
+  * Exceptionally compact and walkable, centered around a charming historic old town, the municipal park, and a well-connected local bus system.
+
+- CLIMATE & WEATHER:
+  * Four distinct seasonal periods with a moderate continental climate.
+  * Summers (June–August) are warm and pleasant, averaging 18°C to 26°C, ideal for cycling and exploring the parklands.
+  * Winters (December–February) are cold and snowy, averaging -3°C to 3°C, offering a classic atmospheric winter vibe.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Legnica offers a close-knit and supportive student community. Social life centers on student union events, local pubs, and the vibrant campus social zones.
+  * Located close to the beautiful Karkonosze and Izera mountain ranges, making it perfect for weekend hiking, rock climbing, and winter skiing trips.
+  * Excellent rail connections: Poland's major academic and party hub, Wrocław, is just a quick 45-minute train ride away, allowing easy weekend travel.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Powered by the Legnica Special Economic Zone (LSSE), the area is a major manufacturing, automotive, and logistics hub, and lies adjacent to KGHM—one of the world's largest mining and copper corporations.
+  * Excellent potential for students looking into applied industrial IT, production systems management, automation, and local database administration roles.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Software Engineering & Programming (Informatyka - BSc)
+     * Focus: Core object-oriented programming (C++, Java, Python), database design, web application development, and software design principles.
+     * Best for: Pragmatic developers searching for strong practical coding skills, modern frameworks, and immediate industry readiness.
+
+  2. Computer Networks & Systems Administration (BSc)
+     * Focus: Computer networks architecture, system administration (Linux/Windows Server), routing protocols, and fundamental network security practices.
+     * Best for: Students looking to build, configure, and maintain IT hardware infrastructures and corporate network environments.
+
+  3. Business IT & Applied Technologies (BSc)
+     * Focus: Database integration, production logistics, data analysis tools, basic macroeconomics, and engineering statistics.
+     * Best for: Students wanting to bridge the gap between computer science, logistics, and corporate administration systems.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * The academic style is highly practical and vocational, focusing on laboratory sessions, real-world application building, and direct industrial problem-solving rather than heavy theoretical research.
+  * The Faculty of Technical and Economic Sciences specifically structures set English-language modules, projects, and programming courses to accommodate and integrate Erasmus exchange students each year.

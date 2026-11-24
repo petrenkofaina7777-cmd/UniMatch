@@ -1,0 +1,44 @@
+================================================================================
+PARTNER UNIVERSITY ID: F PARIS483
+UNIVERSITY: Gustave Eiffel University
+FACULTY: ESIEE Paris
+DEPARTMENT: Computer Science and Telecommunications
+COUNTRY & CITY: Noisy-le-Grand (Greater Paris), France
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * ESIEE Paris is east of central Paris in Noisy-le-Grand. The region offers unmatched cultural variety but high costs; a typical student budget is about €1,000–€1,500/month.
+  * The RER A connects the campus area to central Paris; metro, trains, buses, cycling, and walking cover most daily travel.
+
+- CLIMATE & WEATHER:
+  * Summers are mild to warm (about 20–28°C) and winters cool (roughly 2–8°C), with rain spread across the year and occasional heatwaves or light snow.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Campus clubs combine with Parisian museums, concerts, nightlife, festivals, cafés, sports, and a very international student community.
+  * Parks, the Marne river, Fontainebleau forest, and regional cycling routes provide outdoor options beyond the dense city.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Greater Paris is France's largest employment market for software, AI, finance technology, cybersecurity, consulting, electronics, startups, and research.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Computer Science, Algorithms and Development (Engineering)
+     * Focus: Algorithms, programming, software architecture, databases, web systems, and development projects.
+     * Best for: Students targeting software engineering and full-stack or backend development.
+
+  2. Data Science and Artificial Intelligence (Engineering)
+     * Focus: Statistics, machine learning, data processing, optimization, and AI applications.
+     * Best for: Students with solid mathematics who want practical data and AI experience.
+
+  3. Artificial Intelligence and Cybersecurity / Embedded Systems (Engineering/Master)
+     * Focus: Secure intelligent systems, networks, cryptography, embedded platforms, electronics, and connected devices.
+     * Best for: Students interested in security, IoT, intelligent hardware, or interdisciplinary engineering.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * ESIEE emphasizes engineering projects, laboratories, teamwork, internships, and links with companies and applied research.
+  * The AI and Cybersecurity international program is fully in English, and some semesters in Computer Science, Data Science/AI, and Embedded Systems are available in English; many other courses require French.

@@ -1,0 +1,44 @@
+================================================================================
+PARTNER UNIVERSITY ID: F GRENOBL22
+UNIVERSITY: Université Grenoble Alpes (Grenoble INP - Ensimag, UGA)
+FACULTY: Grenoble INP - Ensimag
+DEPARTMENT: Computer Science and Applied Mathematics
+COUNTRY & CITY: Grenoble, France
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Grenoble is a compact Alpine university city with an active, international atmosphere; a realistic student budget is about €850–€1,200/month, depending mainly on housing.
+  * The centre and campuses are bike-friendly and linked by trams and buses; many daily trips can be made by bicycle or on foot.
+
+- CLIMATE & WEATHER:
+  * Summers are warm (often 25–30°C), while winters are cold (roughly 0–8°C in the city) with rain and occasional snow; heavy snow is common in the surrounding mountains.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * A large student population supports associations, cafés, concerts, bars, cultural events, and university sports.
+  * The Alps make Grenoble exceptional for hiking, climbing, skiing, cycling, trail running, and weekend trips to nearby mountain parks.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Grenoble is a major French deep-tech and research cluster, with strong activity in semiconductors, embedded systems, AI, scientific computing, and cybersecurity.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Computer Science / MoSIG (MSc)
+     * Focus: Software systems, cloud and distributed computing, data infrastructure, graphics, vision, robotics, and high-quality software components.
+     * Best for: Students seeking advanced computer science with strong research links and demanding technical content.
+
+  2. Data Science and Artificial Intelligence (MSc)
+     * Focus: Machine learning, data engineering, optimization, statistics, computer vision, and interactive intelligent systems; mathematically intensive.
+     * Best for: Students comfortable with mathematics who want AI, data, or research-oriented careers.
+
+  3. Applied Mathematics, Optimization and Cybersecurity (MSc/Engineering)
+     * Focus: Scientific computing, operations research, combinatorial optimization, cryptography, networks, systems, cloud, and security.
+     * Best for: Students interested in algorithms, mathematical modelling, security, or high-performance technical work.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Teaching combines rigorous theory with laboratories, team projects, research exposure, and industry-connected internships.
+  * Several international Master's tracks are fully taught in English; exchange students must check the current course catalogue because regular engineering courses may be in French.

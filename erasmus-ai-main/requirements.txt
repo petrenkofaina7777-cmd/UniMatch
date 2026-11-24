@@ -1,0 +1,5 @@
+chainlit>=1.1
+langgraph>=0.2
+langchain-core>=0.3
+openai>=1.30
+python-dotenv>=1.0

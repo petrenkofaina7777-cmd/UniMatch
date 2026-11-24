@@ -1,0 +1,44 @@
+================================================================================
+PARTNER UNIVERSITY ID: LT VILNIUS01
+UNIVERSITY: Vilnius Gediminas Technical University (VILNIUS TECH)
+FACULTY: Faculty of Fundamental Sciences
+DEPARTMENT: Department of Information Technologies / Department of Information Systems
+COUNTRY & CITY: Vilnius, Lithuania
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Vilnius is a green, creative capital with a large student and international community; a typical student budget is around €650–€1,000/month.
+  * The old town is walkable, while buses and trolleybuses connect campuses and residential areas; cycling infrastructure continues to grow.
+
+- CLIMATE & WEATHER:
+  * Summers are pleasant (about 18–25°C); winters are cold and dark (often -7–2°C) with frost and regular snow. Spring and autumn can be wet and changeable.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Vilnius offers university clubs, cafés, bars, concerts, festivals, coworking spaces, and an energetic startup culture.
+  * Forests, lakes, the Neris river, Vingis Park, cycling trails, and nearby Trakai support hiking, kayaking, skating, and winter activities.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Vilnius is a growing European hub for fintech, cybersecurity, software development, shared services, gaming, and startups.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Information Technologies (BSc)
+     * Focus: Software development, IT infrastructure, databases, networks, cloud services, security, and organizational IT needs.
+     * Best for: Students wanting a versatile, applied IT pathway with broad career options.
+
+  2. Applied Artificial Intelligence / Engineering of Artificial Intelligence (BSc/MSc)
+     * Focus: Machine learning, deep learning, data processing, computer vision, natural language processing, and AI engineering.
+     * Best for: Students with strong analytical skills who want practical AI development.
+
+  3. Information Systems and Data Technologies (BSc/MSc)
+     * Focus: Software systems, business processes, databases, decision support, analytics, and information security.
+     * Best for: Students interested in connecting software, data, and organizational problem-solving.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Studies include lectures, laboratories, team projects, applied assignments, and industry-relevant problem solving.
+  * VILNIUS TECH offers many programs and exchange subjects in English, but students should verify that their selected Faculty courses run in English in the intended semester.

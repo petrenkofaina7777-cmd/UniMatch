@@ -1,0 +1,51 @@
+================================================================================
+PARTNER UNIVERSITY ID: SK_KOSICE02
+UNIVERSITY: Pavol Jozef Šafárik University in Košice (UPJŠ)
+FACULTY: Faculty of Science (Prírodovedecká fakulta)
+DEPARTMENT: Institute of Computer Science (Ústav informatiky)
+COUNTRY & CITY: Košice, Slovakia
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Košice is the second-largest city in Slovakia, acting as the historical and economic hub of the eastern region.
+  * Very affordable cost of living for students (estimated at €400–€600/month including shared dorms/apartments, food, and social life).
+  * Extremely walkable, centered around a vibrant medieval main street (Hlavná ulica) filled with cafés, pubs, and historic architecture.
+
+- CLIMATE & WEATHER:
+  * Four distinct seasons.
+  * Summers are warm and pleasant (averaging 20°C to 28°C), ideal for outdoor terraces.
+  * Winters are cold, snowy, and freezing (averaging -5°C to 2°C), perfect for nearby skiing and Christmas markets.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Home to a massive student population across multiple universities, resulting in a good nightlife (numerous student clubs, underground bars, and concerts).
+  * Highly active outdoor options: surrounded by nature, including the Jahodná recreation area, Bankov, and close proximity to the Slovak Paradise National Park (Slovenský raj) and the High Tatras for hiking, climbing, and winter sports.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Known as the IT hub of Slovakia, powered by the "Košice IT Valley" association.
+  * Strong presence of international tech corporations (T-Systems/Deutsche Telekom IT, Ness, FPT) and growing startup ecosystems, offering excellent local internship and networking prospects.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Informatics (Informatika - BSc / MSc / PhD)
+     * Focus: Strong theoretical foundations, logic, advanced data structures, cryptography, network security, and algorithm optimization.
+     * Best for: Students aiming for deep computer science theory, backend engineering, or research paths.
+
+  2. Applied Informatics (Aplikovaná informatika - BSc / MSc)
+     * Focus: Practical software engineering, web technologies, database administration, mobile application development, and agile methodologies.
+     * Best for: Pragmatic developers looking to build concrete applications and collaborate directly with IT companies.
+
+  3. Data Analysis and Artificial Intelligence (Analýza dát a umelá inteligencia - BSc / MSc)
+     * Focus: Machine learning, neural networks, statistical modeling, data mining, big data architectures, and predictive analytics.
+     * Best for: Students who love mathematics, statistics, and training smart AI models.
+
+  4. Interdisciplinary Informatics (Medziodborové štúdium - BSc)
+     * Focus: Joint degrees combining Computer Science with another natural science (Physics, Biology, Chemistry, Geography, or Mathematics).
+     * Best for: Students interested in specialized niches like Bioinformatics, GIS (Geographic Information Systems), or Computational Physics.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Heavy emphasis on hands-on project work, small seminar groups, and industry-sponsored thesis topics in collaboration with local IT companies.

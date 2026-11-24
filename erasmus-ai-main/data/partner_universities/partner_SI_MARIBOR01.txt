@@ -1,0 +1,48 @@
+================================================================================
+PARTNER UNIVERSITY ID: SI_MARIBOR01
+UNIVERSITY: University of Maribor (Univerza v Mariboru)
+FACULTY: Faculty of Electrical Engineering and Computer Science (Fakulteta za elektrotehniko, računalništvo in informatiko - FERI)
+DEPARTMENT: Institute of Computer Science & Institute of Informatics
+COUNTRY & CITY: Maribor, Slovenia
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Maribor is Slovenia's second-largest city, offering a cozy, safe, and authentic historic atmosphere nested along the Drava River and surrounded by vineyards.
+  * Very affordable cost of living (estimated at €450–€650/month). Students heavily benefit from the nationwide "Študentska Prehrana" (Boni) system, which offers highly subsidized, restaurant-grade meals for €2–€5.
+  * Extremely bike-friendly and walkable city layout, with an efficient local bus network connecting student dormitories and the university campus.
+
+- CLIMATE & WEATHER:
+  * Continental climate with four distinct, beautiful seasons.
+  * Summers are warm and sunny (averaging 18°C to 28°C), perfect for spending time by the river or relaxing in the city park.
+  * Winters are cold and snowy (averaging -2°C to 5°C), bringing a magical alpine vibe to the city and nearby ski slopes.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Vibrant student scene driven by ŠOUM (Student Organization of University of Maribor) and local Erasmus groups, featuring legendary student parties (Lampiončki), cultural festivals, and active bars.
+  * Exceptional outdoor recreation: the Pohorje mountain range is virtually at the city's doorstep, offering immediate access to premium skiing, snowboarding, mountain biking, hiking, and the unique wine-growing hills of Piramida.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Maribor is a growing eastern tech and industrial hub in Slovenia.
+  * Home to dynamic engineering, automotive, and software firms, offering direct project collaborations, local internships, and integration with innovative regional startups.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Computer Science and Information Technologies (BSc / MSc)
+     * Focus: Algorithms, systems programming, computer architecture, computer graphics, artificial intelligence, and software engineering.
+     * Best for: Students seeking a rigorous technical and mathematical baseline in pure computer science and system architecture.
+
+  2. Informatics and Data Technologies (BSc / MSc)
+     * Focus: Data science, database design, information systems management, cloud systems, and IT business solutions.
+     * Best for: Students aiming to bridge the gap between business processes, software applications, and massive database architectures.
+
+  3. Media Communications (BSc / MSc)
+     * Focus: Digital media, UX/UI design, audio/visual production, computer animation, and human-computer interaction (HCI).
+     * Best for: Tech-savvy creatives interested in the design, frontend, and multimedia aspect of information technologies.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * High focus on experimental lab work, mandatory industrial placements in BSc programs, and active student participation in faculty research groups.
+  * Offers an extensive catalogue of courses fully taught in English for exchange students, alongside very supportive, fluent professors and international mentors.

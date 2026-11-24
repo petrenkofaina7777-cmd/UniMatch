@@ -1,0 +1,52 @@
+================================================================================
+PARTNER UNIVERSITY ID: PL_RADOM01
+UNIVERSITY: Kazimierz Pułaski University of Radom (Uniwersytet Radomski)
+FACULTY: Faculty of Philology and Pedagogy; Faculty of Transport, Electrical Engineering and Computer Science
+DEPARTMENT: Department of Computer Science / Department of Transport / Department of Philology
+COUNTRY & CITY: Radom, Poland
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Radom is a historic, medium-sized industrial city located in central-eastern Poland, approximately 100 km south of Warsaw.
+  * Highly affordable cost of living for students (estimated at €400–€550/month, including university dormitories or shared off-campus apartments, groceries, and local leisure).
+  * Highly walkable and bike-friendly urban layout, centered around the historic Żeromskiego Street, beautiful city parks, and a reliable, inexpensive public bus transit system.
+
+- CLIMATE & WEATHER:
+  * Classic Central European continental climate with four distinct seasons.
+  * Summers are comfortable, warm, and partly cloudy (averaging 18°C to 26°C), great for outdoor activities.
+  * Winters are cold, snowy, and freezing (averaging -5°C to 2°C), with frequent snowfall and overcast skies, typical for Poland.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * A close-knit and accessible student community supported by numerous student organizations, academic circles, and sports clubs (including the university's AZS sports associations and even a horse-riding club).
+  * Local leisure and outdoor options include exploring the sprawling Stary Ogród park, cycling routes along the Pacynka River, or relaxing around the outdoor features of the Witold Gombrowicz Museum park. Its central location also makes weekend train trips to Warsaw or Kraków very easy.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Radom features a growing IT and manufacturing sector, with a strong focus on industrial computer science, transport logistics, and automation.
+  * Strong ties to regional engineering firms, transport and shipping enterprises, and public administration, creating clear local internship pathways for engineering and logistics students.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Computer Science & Information Technology (BSc)
+     * Focus: Practical programming, web design, database analysis, computer networks, big data architectures, and cybersecurity.
+     * Best for: Pragmatic developers, database administrators, and security specialists looking for applied technical skills.
+
+  2. Transport and Logistics (BSc / MSc)
+     * Focus: Traffic management systems, road and rail operation, supply chain logistics, and the use of artificial intelligence to design transport devices and systems.
+     * Best for: Students aiming to work as logisticians, transport analysts, or coordinators in international shipping and freight corporations.
+
+  3. Electrical Engineering (BSc / MSc)
+     * Focus: Industrial automation, power systems, robotization and visualization of industrial processes, and electromechanical systems.
+     * Best for: Engineers focused on hardware-software integration, automation, and industrial control systems.
+
+  4. English Philology & Pedagogy (BSc / MSc)
+     * Focus: Advanced English language proficiency, grammar, literature, cultural history of English-speaking countries, alongside educational psychology and pedagogy.
+     * Best for: Students aiming for careers in international education, translation, public relations, or instructional design.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Heavy emphasis on laboratory exercises, the use of dedicated specialized software, and completing practical projects to bridge academic theory with current job market requirements.
+  * While Polish is the primary language, a structured selection of Erasmus modules and project-based coursework are offered fully in English for incoming exchange students.

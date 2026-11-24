@@ -1,0 +1,48 @@
+================================================================================
+PARTNER UNIVERSITY ID: PL_GDANSK02
+UNIVERSITY: Gdańsk University of Technology (Politechnika Gdańska)
+FACULTY: Faculty of Applied Physics and Mathematics (Wydział Fizyki Technicznej i Matematyki Stosowanej - FTiMS)
+DEPARTMENT: Institute of Physics and Applied Computer Science / Institute of Applied Mathematics
+COUNTRY & CITY: Gdańsk, Poland
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Gdańsk is a historic Baltic port city and part of the vibrant "Tricity" metropolis (along with Sopot and Gdynia).
+  * Highly affordable compared to Western Europe, with student living costs estimated between €500–€700/month (including shared student housing, food, transport, and leisure).
+  * Modern, efficient public transport system (trams, buses, and SKM commuter trains) seamlessly connecting the entire metropolitan coast.
+
+- CLIMATE & WEATHER:
+  * Temperate maritime climate influenced strongly by the Baltic Sea.
+  * Summers are warm and breezy (averaging 18°C to 25°C), making the beaches incredibly popular.
+  * Winters are cold, damp, and windy (averaging -3°C to 3°C), with occasional snowfall and frozen coastal landscapes.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Exceptional student lifestyle due to Tricity's unique layout: Gdańsk offers rich history and culture, Sopot acts as the main party and nightlife capital with famous beach clubs, and Gdynia offers modern coastal vibes.
+  * Endless outdoor recreation: vast sandy beaches on the Baltic Sea, coastal cycling paths, windsurfing, sailing, and hiking in the nearby Tricity Landscape Park (Trójmiejski Park Krajobrazowy).
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * A rapidly expanding tech hub in Poland with strong software, maritime engineering, and R&D sectors.
+  * Local opportunities at multinational tech companies (such as Intel's largest European R&D center, Amazon, and Boeing) as well as numerous emerging Baltic tech startups.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Applied Informatics (Stosowana Informatyka - BSc / MSc)
+     * Focus: Scientific computing, computer graphics, physics-based simulations, software modeling, database systems, and practical programming languages.
+     * Best for: Students who want to combine core software development with real-world physical simulations, computational graphics, or hardware integration.
+
+  2. Applied Mathematics & Mathematical Modeling (Matematyka Stosowana - BSc / MSc)
+     * Focus: Advanced numerical methods, statistical analysis, mathematical modeling in engineering, and machine learning algorithms.
+     * Best for: Students looking for a highly analytical background, aiming for careers in data science, predictive modeling, or quantitative analysis.
+
+  3. Nanotechnology & Computer Simulations (Nanotechnologia - MSc)
+     * Focus: Computer-aided materials design, quantum and classical particle simulations, computational physics, and molecular modeling on supercomputers.
+     * Best for: Students interested in computational science, high-performance computing (HPC), and simulating molecular or structural systems.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * The faculty places a strong emphasis on computational laboratory work, exposing students to advanced simulation software, numerical engines, and scientific computing clusters.
+  * A wide range of specialized courses is offered fully in English, tailored for international mobility and Erasmus+ students.

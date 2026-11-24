@@ -1,0 +1,52 @@
+================================================================================
+PARTNER UNIVERSITY ID: SI_NOVO-ME05
+UNIVERSITY: Faculty of Information Studies in Novo Mesto (Fakulteta za informacijske študije v Novem mestu - FIŠ)
+FACULTY: Faculty of Information Studies (Fakulteta za informacijske študije)
+DEPARTMENT: Department of Computer Science and Informatics
+COUNTRY & CITY: Novo Mesto, Slovenia
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Novo Mesto is a historic, charming, and peaceful medium-sized town situated in the scenic southeastern Dolenjska region of Slovenia, embraced by a loop of the Krka River.
+  * Extremely budget-friendly (estimated at €400–€600/month) with low housing costs, and fully integrated into the Slovenian "Boni" subsidized student meal voucher system.
+  * Very compact and walkable; student life is highly personalized, tranquil, and free of the typical rush of major metropolitan centers.
+
+- CLIMATE & WEATHER:
+  * Moderate continental climate with clear seasonal changes.
+  * Summers are warm and pleasant (averaging 18°C to 27°C), ideal for river activities and exploring the lush green countryside.
+  * Winters are chilly and moderately snowy (averaging -3°C to 4°C), making it great for visiting thermal spas and nearby regional winter trails.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * A tight-knit, welcoming student community that values personal interaction, local cultural events, and outdoor exploration.
+  * Beautiful nature-oriented location: perfect for kayaking/rowing on the Krka River, hiking through the Gorjanci hills, and taking relaxing trips to the nearby therapeutic thermal spas (Dolenjske Toplice, Šmarješke Toplice).
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Known as the industrial powerhouse of Slovenia, hosting corporate giants like Krka (pharmaceuticals) and Revoz (Renault automotive), alongside highly advanced manufacturing and IT consulting partners.
+  * Excellent opportunities for collaborative industrial master's theses, specialized tech internships, and industrial project opportunities.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Computer Science and Web Technologies (BSc / MSc)
+     * Focus: Practical web development, programming languages, database systems, web architecture, and cloud services.
+     * Best for: Practical, hands-on developers looking to jump straight into modern web engineering and concrete app design.
+
+  2. Data Sciences (MSc)
+     * Focus: Advanced analytics, high-performance computing (HPC), machine learning, statistics, and business intelligence models.
+     * Best for: Mathematically inclined students wanting to specialize in modern big data pipelines and computational research.
+
+  3. Informatics in Contemporary Society (BSc / MSc)
+     * Focus: Merging Information Technology with organizational workflows, digital transformation, UX design, and social media impacts.
+     * Best for: Students looking to combine software implementation with business informatics, management, and tech sociology.
+
+  4. Cyber Security (MSc)
+     * Focus: Information security protocols, network defense, threat analysis, digital forensics, and secure system design.
+     * Best for: Aspiring security analysts, ethical hackers, and students passionate about securing modern corporate infrastructures.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Highly modern, project-based curriculum featuring advanced technological infrastructure, including their own High-Performance Computing (HPC) center.
+  * Highly flexible, personal learning environments with courses offered in English or hybrid formats (individualized tutorials and project work) specifically designed for Erasmus students.

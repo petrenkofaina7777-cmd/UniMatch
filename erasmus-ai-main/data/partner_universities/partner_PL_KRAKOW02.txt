@@ -1,0 +1,48 @@
+================================================================================
+PARTNER UNIVERSITY ID: PL_KRAKOW02
+UNIVERSITY: AGH University of Science and Technology (Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie)
+FACULTY: Faculty of Applied Mathematics (Wydział Matematyki Stosowanej)
+DEPARTMENT: Faculty of Applied Mathematics (Wydział Matematyki Stosowanej)
+COUNTRY & CITY: Kraków, Poland
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Kraków is Poland's former royal capital and its premier cultural and academic center, combining stunning medieval heritage with a modern, energetic lifestyle.
+  * Highly affordable cost of living for international students, with monthly budgets averaging €580–€800 (PLN 2,500–3,500), including accommodation in shared student flats or dormitories, groceries, and leisure activities.
+  * Exceptionally walkable and bike-friendly, featuring a compact historic Old Town surrounded by the Planty green belt and supported by an efficient, cheap tram and bus network.
+
+- CLIMATE & WEATHER:
+  * Distinct four-season continental climate.
+  * Summers (June–August) are warm and sunny (averaging 20°C to 27°C), perfect for hanging out along the Vistula River boulevards or outdoor café terraces.
+  * Winters (December–February) are cold and often snowy (averaging -3°C to 2°C), bringing a magical atmosphere to the historic market square and offering close proximity to winter sports.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Home to over 100,000 students across multiple institutions, making it one of Europe's most vibrant student hubs. Social life revolves around the Main Square (Rynek Główny) and the trendy bohemian district of Kazimierz, filled with hundreds of cellar bars, student clubs, and affordable eateries.
+  * Excellent outdoor escape options, including Ojców National Park just outside the city, and fast train connections to Zakopane and the Tatra Mountains for premier hiking, skiing, and mountaineering.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Renowned as one of Central Europe's top tech hubs and a major destination for multinational R&D offices.
+  * Global giants such as Google, IBM, Sabre, Cisco, and Motorola, alongside the Krakow Technology Park and a booming startup ecosystem, provide vast internship, networking, and employment opportunities for IT students.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Mathematics in Computer Science (Matematyka w Informatyce - BSc/MSc)
+     * Focus: Algorithms, cryptography, complexity theory, data structures, graph theory, and mathematical foundations of computer science.
+     * Best for: Analytical thinkers aiming to specialize in cryptography, cybersecurity, or highly optimization-oriented software engineering.
+
+  2. Computational and Computer Mathematics (Matematyka Obliczeniowa i Komputerowa - BSc/MSc)
+     * Focus: Numerical methods, mathematical modeling, computer simulations, and practical scientific computing using Python, C++, and specialized math packages.
+     * Best for: Students passionate about simulation design, physical/technical systems modeling, and scientific software engineering.
+
+  3. Insurance Mathematics and Statistical Data Analysis (Matematyka Ubezpieczeniowa i Statystyczna Analiza Danych - BSc/MSc)
+     * Focus: Advanced statistical inference, probability theory, stochastic modeling, data mining, and risk evaluation.
+     * Best for: Students looking to build strong mathematical foundations for Data Science, actuarial roles, or predictive analytics.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * High level of academic rigor with a heavy emphasis on solving real-world technological and industrial problems through mathematical modeling and programming.
+  * While the core degree paths are taught in Polish, a vast selection of English-language modules, seminars, and projects are explicitly curated for Erasmus exchange students under the AGH International Courses catalog.

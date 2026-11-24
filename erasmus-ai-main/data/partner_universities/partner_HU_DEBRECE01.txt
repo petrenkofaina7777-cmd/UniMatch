@@ -1,0 +1,44 @@
+================================================================================
+PARTNER UNIVERSITY ID: HU DEBRECE01
+UNIVERSITY: University of Debrecen
+FACULTY: Faculty of Informatics
+DEPARTMENT: Faculty of Informatics
+COUNTRY & CITY: Debrecen, Hungary
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Debrecen is Hungary's second-largest city and a major university centre, with a calmer and cheaper lifestyle than Budapest; budget about €600–€900/month.
+  * Trams and buses connect the university, centre, and residential districts; central areas are flat, walkable, and suitable for cycling.
+
+- CLIMATE & WEATHER:
+  * Summers are warm to hot (about 25–32°C); winters are cold (roughly -3–5°C), with fog, frost, and occasional snow. Rain peaks in late spring and early summer.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * A large international student population supports clubs, festivals, pubs, cafés, sports, and events around the main campus and city centre.
+  * Nagyerdő park, thermal baths, cycling routes, and Hortobágy National Park provide recreation and nature trips.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Debrecen is expanding in IT services, telecommunications, manufacturing digitalization, automotive technology, electronics, and business services.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Computer Science (BSc/MSc)
+     * Focus: Programming, algorithms, mathematics, databases, software systems, graphics, and theoretical foundations.
+     * Best for: Students who enjoy abstraction and want broad preparation for software or research.
+
+  2. Computer Science Engineering (BSc/MSc)
+     * Focus: Technical IT systems, infrastructure, networks, embedded and engineering-oriented computing, implementation, and operations.
+     * Best for: Students interested in practical systems engineering and hardware-software integration.
+
+  3. Business Informatics / Data Science and AI (BSc/MSc topics)
+     * Focus: Enterprise systems, economic modelling, analytics, visualization, machine learning, image processing, and decision support.
+     * Best for: Students wanting to apply computing to business or data-intensive problems.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Programs combine lectures and examinations with programming exercises, laboratories, projects, and applied research opportunities.
+  * The Faculty offers degree programs and many subjects in English; incoming students should still match the current English timetable to their learning agreement.

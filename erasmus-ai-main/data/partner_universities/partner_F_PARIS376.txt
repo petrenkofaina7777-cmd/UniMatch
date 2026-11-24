@@ -1,0 +1,44 @@
+================================================================================
+PARTNER UNIVERSITY ID: F PARIS376
+UNIVERSITY: ISEN École d'ingénieurs du numérique (ISEN Ouest)
+FACULTY: Engineering School
+DEPARTMENT: Computer Science and Digital Technologies
+COUNTRY & CITY: Brest, France
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Brest is a medium-sized Atlantic port and student city with a relaxed maritime character; students commonly budget about €700–€1,000/month.
+  * Buses and a tram serve the city; the centre is walkable, although the spread-out urban area makes public transport useful.
+
+- CLIMATE & WEATHER:
+  * The ocean keeps temperatures mild: summers are usually 17–22°C and winters about 5–10°C. Wind and rain occur throughout the year, with snow uncommon.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Student associations, music venues, pubs, maritime festivals, and campus activities provide a friendly social scene.
+  * The coast offers sailing, surfing, kayaking, coastal hiking, beaches, and easy trips around Finistère and the Crozon Peninsula.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Brest has strong digital, maritime, defence, telecommunications, cybersecurity, and embedded-systems sectors, supported by local research and technology firms.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Computer Science and Digital Technologies (Engineering)
+     * Focus: Programming and application development, with systems, networks, databases, software engineering, and digital services.
+     * Best for: Students wanting broad, hands-on preparation for software and IT engineering.
+
+  2. Embedded Systems, Electronics and Robotics (Engineering)
+     * Focus: Electronics, connected devices, IoT, real-time programming, automation, robotics, and system integration.
+     * Best for: Students who enjoy combining hardware and software to build physical products.
+
+  3. Cybersecurity, AI and Data (Engineering specializations)
+     * Focus: Secure systems and networks, data processing, machine learning, and applied intelligent systems.
+     * Best for: Students seeking an applied route into security, analytics, or emerging digital technologies.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * The five-year engineering curriculum uses laboratories, projects, internships, teamwork, and company engagement, alongside mathematics and engineering fundamentals.
+  * French is important for much of the standard curriculum; incoming students should confirm the current English-taught exchange package with ISEN before selecting courses.

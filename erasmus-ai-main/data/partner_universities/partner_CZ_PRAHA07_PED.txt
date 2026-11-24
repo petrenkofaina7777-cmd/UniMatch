@@ -1,0 +1,45 @@
+================================================================================
+PARTNER UNIVERSITY ID: CZ_PRAHA07_PED
+UNIVERSITY: Charles University
+FACULTY: Faculty of Education
+DEPARTMENT: Department of Information Technologies and Technical Education
+COUNTRY & CITY: Prague, Czech Republic
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Student-friendly city with good public transport and accommodation options.
+  * Estimated monthly budget: €650–1200 depending on housing.
+
+- CLIMATE & WEATHER:
+  * Winter: cold (−2°C to 5°C).
+  * Summer: pleasant (20–30°C).
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Active Erasmus community, clubs, sports, cafés and cultural events.
+  * Parks, cycling routes and weekend trips available nearby.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Internship opportunities in software development, AI, engineering and research.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Software Engineering
+     * Focus: programming, databases, software architecture and project development.
+     * Best for: students interested in practical software development.
+
+  2. Data Science & Artificial Intelligence
+     * Focus: machine learning, statistics, Python, data analysis.
+     * Best for: students interested in AI and analytics.
+
+  3. Computer Systems & Cybersecurity
+     * Focus: networks, operating systems, security and cloud computing.
+     * Best for: students interested in infrastructure and security.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Combination of lectures, laboratories and semester projects.
+  * Erasmus students can usually select multiple courses taught in English.

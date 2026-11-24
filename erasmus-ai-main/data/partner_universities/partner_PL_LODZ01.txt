@@ -1,0 +1,48 @@
+================================================================================
+PARTNER UNIVERSITY ID: PL_LODZ01
+UNIVERSITY: University of Lodz (Uniwersytet Łódzki)
+FACULTY: Faculty of Physics and Applied Informatics (Wydział Fizyki i Informatyki Stosowanej)
+DEPARTMENT: Department of Computer Science (Katedra Informatyki)
+COUNTRY & CITY: Łódź, Poland
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Łódź is Poland's third-largest city, famous for its post-industrial transformation from a 19th-century textile giant into a highly creative, alternative, and modern cultural hub.
+  * Very budget-friendly for students (estimated at €450–€650/month including university dorms or shared apartments, cheap local dining, and social events).
+  * Unique urban design centered around Piotrkowska Street (one of the longest commercial streets in Europe), complemented by extensive bike-sharing schemes and a dense tram network connecting the student campuses.
+
+- CLIMATE & WEATHER:
+  * Moderate continental climate with clearly marked seasonal transitions.
+  * Summers (June–August) are warm and lively (averaging 19°C to 26°C), filling the city's unique industrial-chic red-brick courtyards and terraces with social life.
+  * Winters (December–February) are cold and freezing (averaging -4°C to 2°C), occasionally snowy, offering local winter setups and cozy industrial cafes.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Boasts a highly active, underground student culture powered by several universities. Social life thrives around "Manufaktura" (a massive converted textile mill complex) and the vibrant pub, club, and artistic scene on Piotrkowska Street.
+  * Excellent local green spaces, including Lagiewniki Forest (Las Łagiewnicki), which is one of the largest urban forest parks in Europe—perfect for cycling, running, and lake swimming.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Strong regional economic engine with a rapidly growing IT, logistics, and business process outsourcing (BPO) sector.
+  * Excellent internship and graduate prospects at major technological centers such as Accenture, Fujitsu, Comarch, and Nordea, which actively collaborate with local science and technology faculties.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Applied Informatics & Systems Development (Informatyka Stosowana - BSc/MSc)
+     * Focus: Object-oriented programming, modern database design (relational and post-relational systems), software engineering processes, and advanced numerical methods.
+     * Best for: Practical developers who want to design, test, and scale business and industrial software architectures.
+
+  2. Embedded Systems, Hardware & Digital Electronics (Informatyka - BSc engineering level)
+     * Focus: Hardware programming, microcontrollers, digital electronic design, robotics, and massively distributed database infrastructures.
+     * Best for: Students fascinated by physical computing, IoT (Internet of Things), and bridging the gap between computer hardware and software.
+
+  3. Artificial Intelligence & Machine Learning (AI / ML Tracks)
+     * Focus: Neural network architectures, computer vision, natural language processing (NLP), time series analysis, and deep learning algorithms.
+     * Best for: Mathematics-oriented students aiming to specialize in predictive modeling and computational intelligence.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * The Faculty features a highly hands-on approach where software theory is applied directly to labs equipped with advanced hardware (such as iOS/Apple and specialized computation clusters).
+  * Fully supports international exchange, utilizing the ECTS credit system, a flexible curriculum path, and a broad range of English-friendly project/seminar choices designed for Erasmus visitors.

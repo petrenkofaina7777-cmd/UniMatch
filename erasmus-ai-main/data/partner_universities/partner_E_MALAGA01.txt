@@ -1,0 +1,48 @@
+================================================================================
+PARTNER UNIVERSITY ID: E_MALAGA01
+UNIVERSITY: University of Malaga (Universidad de Málaga - UMA)
+FACULTY: Higher Technical School of Computer Engineering (Escuela Técnica Superior de Ingeniería Informática - ETSI Informática)
+DEPARTMENT: Department of Computer Science (Departamento de Lenguajes y Ciencias de la Computación / Tecnología de Computadores)
+COUNTRY & CITY: Málaga, Spain
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Málaga is a thriving, medium-sized coastal city on Spain’s famous Costa del Sol, blending deep Andalusian history with a fast-growing, modern international vibe.
+  * Moderate cost of living for students (estimated at €650–€1,000/month). Shared student rooms in popular neighborhoods like Teatinos (the university hub) or Huelin range between €320–€450/month, while living in the historic city center sits around €400–€500/month.
+  * Highly walkable historic center and well-connected by a modern metro system that links the main university campus (Teatinos) directly to the downtown area, supplemented by a widely used public bike-sharing program.
+
+- CLIMATE & WEATHER:
+  * Mediterranean climate boasting over 300 days of sunshine per year.
+  * Summers are hot and dry (averaging 25°C to 35°C), heavily cooled by sea breezes and perfect for beach days.
+  * Winters are incredibly mild and bright (averaging 10°C to 17°C) with occasional rainfall, completely free of snow or freezing temperatures.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * A premier destination for international and Erasmus students, offering a massive social scene, active student networks (like ESN Málaga), and bustling nightlife centered in Teatinos and the downtown bars, tapas spots, and beachside chiringuitos.
+  * Incredible outdoor versatility: immediate access to urban beaches (La Malagueta, Pedregalejo) for volleyball and water sports, hiking in the nearby Montes de Málaga, traversing the famous Caminito del Rey, and skiing in the Sierra Nevada mountains (just a 2-hour drive away).
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Widely dubbed the "Silicon Valley of Southern Europe" or "Málaga Valley."
+  * Home to Malaga TechPark (PTA), which hosts over 600 tech companies, including multinational giants like Google (Google Safety Engineering Center), Oracle, Ericsson, Accenture, and Vodafone, offering massive potential for local internships and tech networking.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Computer Science (Ingeniería Informática - BSc)
+     * Focus: Deep dive into computational models, advanced algorithm design, database architectures, and artificial intelligence fundamentals.
+     * Best for: Students looking for a classic, comprehensive computer science foundation with a strong analytical focus.
+
+  2. Software Engineering (Ingeniería del Software - BSc / MSc)
+     * Focus: Large-scale software construction, software quality, agile project management, databases, cloud computing, and applied artificial intelligence.
+     * Best for: Pragmatic developers aiming to design, build, and maintain complex software systems for commercial enterprise environments.
+
+  3. Computer Engineering (Ingeniería de Computadores - BSc)
+     * Focus: Hardware-software co-design, physical network infrastructures, embedded systems, microprocessors, and digital electronics.
+     * Best for: Students fascinated by the physical side of tech, computer architecture, IoT, and network communication protocols.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * Highly practical approach with extensive laboratory-based assignments, hands-on programming tasks, and projects modeled after real-world industrial needs.
+  * The university offers a selection of courses fully taught in English specifically tailored for incoming Erasmus students, though having basic Spanish is highly beneficial for daily social and academic integration.

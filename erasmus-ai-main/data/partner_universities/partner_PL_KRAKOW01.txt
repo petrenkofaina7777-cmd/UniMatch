@@ -1,0 +1,48 @@
+================================================================================
+PARTNER UNIVERSITY ID: PL_KRAKOW01
+UNIVERSITY: Jagiellonian University (Uniwersytet Jagielloński)
+FACULTY: Faculty of Mathematics and Computer Science (Wydział Matematyki i Informatyki)
+DEPARTMENT: Institute of Computer Science and Computational Mathematics (Instytut Informatyki i Matematyki Komputerowej)
+COUNTRY & CITY: Kraków, Poland
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: CITY, LIFE, WEATHER, AND ENVIRONMENT
+--------------------------------------------------------------------------------
+- CITY PROFILE & COST OF LIVING:
+  * Kraków is Poland's former royal capital and its premier cultural and academic center, combining stunning medieval heritage with a modern, energetic lifestyle.
+  * Highly affordable cost of living for international students, with monthly budgets averaging €580–€800 (PLN 2,500–3,500), including accommodation in shared student flats or dormitories, groceries, and leisure activities.
+  * Exceptionally walkable and bike-friendly, featuring a compact historic Old Town surrounded by the Planty green belt and supported by an efficient, cheap tram and bus network.
+
+- CLIMATE & WEATHER:
+  * Distinct four-season continental climate.
+  * Summers (June–August) are warm and sunny (averaging 20°C to 27°C), perfect for hanging out along the Vistula River boulevards or outdoor café terraces.
+  * Winters (December–February) are cold and often snowy (averaging -3°C to 2°C), bringing a magical atmosphere to the historic market square and offering close proximity to winter sports.
+
+- STUDENT LIFE & OUTDOOR ACTIVITIES:
+  * Home to over 100,000 students across multiple institutions, making it one of Europe's most vibrant student hubs. Social life revolves around the Main Square (Rynek Główny) and the trendy bohemian district of Kazimierz, filled with hundreds of cellar bars, student clubs, and affordable eateries.
+  * Excellent outdoor escape options, including Ojców National Park just outside the city, and fast train connections to Zakopane and the Tatra Mountains for premier hiking, skiing, and mountaineering.
+
+- CAREER & INDUSTRY OPPORTUNITIES:
+  * Renowned as one of Central Europe's top tech hubs and a major destination for multinational R&D offices.
+  * Global giants such as Google, IBM, Sabre, Cisco, and Motorola, alongside the Krakow Technology Park and a booming startup ecosystem, provide vast internship, networking, and employment opportunities for IT students.
+
+--------------------------------------------------------------------------------
+SECTION 2: STUDY PROGRAMS & ACADEMIC FOCUS
+--------------------------------------------------------------------------------
+- MAIN ACADEMIC TRACKS:
+  1. Analytical/Theoretical Computer Science (Informatyka Analityczna - BSc/MSc)
+     * Focus: Deep mathematical foundations, advanced algorithms, computational complexity, discrete mathematics, and cryptography.
+     * Best for: Highly analytical students who thrive on competitive programming, math-heavy problem solving, or plan to pursue academic research.
+
+  2. Applied Computer Science (Informatyka Stosowana - BSc/MSc)
+     * Focus: Software engineering, database design, mobile application development, network technologies, and practical systems engineering.
+     * Best for: Hands-on developers looking to acquire industry-ready programming skills and build concrete software projects.
+
+  3. Machine Learning & Data Science (BSc/MSc level tracks)
+     * Focus: Deep learning, neural networks, statistical modeling, artificial intelligence, and big data. Strongly supported by the university's famous GMUM (Group of Machine Learning Research).
+     * Best for: Students passionate about AI, data analysis, and designing sophisticated modern machine learning models.
+
+- INSTRUCTION & PRACTICAL ENGAGEMENT:
+  * The curriculum strikes a rigorous balance between profound theoretical instruction and practical project work. Courses are closely integrated with active research groups.
+  * While undergraduate programs are heavily Polish-taught, a wide selection of advanced courses, seminars, and English-taught modules are specifically open and structured to accommodate Erasmus exchange students.
